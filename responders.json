@@ -1,8 +1,12 @@
 [
   {
     "name": "CommandResponder",
+    "version": "1.0",
+    "author": "walkalone94",
+    "license": "AGPL-3.0",
     "description": "Run arbitrary commands",
-    "dockerImage": "ghcr.io/yourusername/command-responder:1.0",
+    "dockerImage": "ghcr.io/walkalone94/command-responder:1.0",
+    "url": "https://github.com/walkalone94/command-responder",
     "dataTypeList": ["thehive:case_artifact"],
     "configurationItems": []
   }
