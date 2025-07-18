@@ -1,11 +1,10 @@
 [
   {
-    "name": "Command_Responder",
-    "url": "https://raw.githubusercontent.com/walkalone94/cortex-custom-responders/main/Command_Responder.zip",
+    "name": "CommandResponder",
     "description": "Run arbitrary commands",
-    "version": "1.0",
-    "author": "TheHive",
-    "license": "AGPL-3.0",
-    "type": "python"
+    "dockerImage": "ghcr.io/yourusername/command-responder:1.0",
+    "dataTypeList": ["thehive:case_artifact"],
+    "configurationItems": []
   }
 ]
+
