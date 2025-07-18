@@ -1,2 +1,2 @@
-cortexutils==3.1.0
+cortexutils==2.2.1
 
