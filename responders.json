@@ -2,7 +2,7 @@
   {
     "name": "CommandResponder",
     "version": "1.0",
-    "author": "walkalone94",
+    "author": "thehive",
     "license": "AGPL-3.0",
     "description": "Run arbitrary commands",
     "dockerImage": "ghcr.io/walkalone94/command-responder:1.0",
