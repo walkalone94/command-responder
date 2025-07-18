@@ -1,0 +1,10 @@
+{
+  "name": "CommandResponder",
+  "version": "1.0",
+  "author": "YourName",
+  "command": "CommandResponder.py",
+  "baseConfig": "BaseResponder",
+  "pythonInterpreter": "python3",
+  "type": "python"
+}
+
