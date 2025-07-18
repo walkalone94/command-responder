@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Command_Responder",
+    "url": "https://raw.githubusercontent.com/<your_username>/<repo_name>/main/Command_Responder.zip",
+    "description": "Run arbitrary commands",
+    "version": "1.0",
+    "author": "TheHive",
+    "license": "AGPL-3.0",
+    "type": "python"
+  }
+]
