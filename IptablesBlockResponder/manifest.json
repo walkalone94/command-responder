@@ -1,0 +1,9 @@
+{
+  "name": "IptablesBlockResponder",
+  "version": "1.0",
+  "author": "walkalone94",
+  "command": "IptablesBlockResponder.py",
+  "baseConfig": "BaseResponder",
+  "pythonInterpreter": "python3",
+  "type": "python"
+}
