@@ -12,12 +12,12 @@
   },
   {
     "name": "IptablesBlockResponder",
-    "dockerImage": "ghcr.io/yourusername/iptablesblockresponder:1.0",
+    "dockerImage": "ghcr.io/yourusername/iptablesblockresponder:1.2",
     "description": "Block attacker IP using iptables via SSH",
     "author": "thehive",
     "license": "AGPL-3.0",
     "url": "https://github.com/yourusername/command-responder-repo",
-    "version": "1.0",
+    "version": "1.2",
     "dataTypeList": ["thehive:ip"],
     "configurationItems": []
   }
