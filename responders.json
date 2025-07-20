@@ -14,7 +14,7 @@
     "name": "IptablesBlockResponder",
     "dockerImage": "ghcr.io/yourusername/iptables-block-responder:1.0",
     "description": "Block attacker IP using iptables via SSH",
-    "author": "walkalone94",
+    "author": "thehive",
     "license": "AGPL-3.0",
     "url": "https://github.com/yourusername/command-responder-repo",
     "version": "1.0",
